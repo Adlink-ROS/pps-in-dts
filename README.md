@@ -49,6 +49,8 @@ If PPS input exists, you should see the result simlar to below picture:
 
 Now, the PPS input is ready to use.
 
+**Note:** If a timeout occurs, please check the PPS wiring between DB50 Pin #21 of the RQX-59G and your PPS generator.
+
 # Remove and Restore
 
 If PPS_IN is no logger needed, you can enter below command to restore the original device tree:
